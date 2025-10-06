@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
   <diagram name="Página-1" id="y2Pl_pMcrti_9BA9b5Gk">
-    <mxGraphModel dx="3247" dy="2344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JufCEaELgb2OxvAE_zgp-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#666666);" vertex="1" parent="1">
+          <mxGeometry x="-720" y="630" width="1960" height="430" as="geometry" />
+        </mxCell>
         <mxCell id="kurE61czT7tU5g2z9cBQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kurE61czT7tU5g2z9cBQ-1" target="kurE61czT7tU5g2z9cBQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
